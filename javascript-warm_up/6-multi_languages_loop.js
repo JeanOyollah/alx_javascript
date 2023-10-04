@@ -1,5 +1,8 @@
-const lines = ["C is fun", "Python is cool", "JavaScript is amazing"];
+// #!/usr/bin/node
 
-for (let i = 0; i < lines.length; i++) {
-    console.log(lines[i]);
+const x = ['C is fun\nPython is cool\nJavaScript is amazing'];
+const xLeng = x.length;
+
+for (let i = 0; i < xLeng; i++) {
+    console.log(x[i]);
 }
