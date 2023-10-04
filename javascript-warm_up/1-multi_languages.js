@@ -1,7 +1,3 @@
-const firstLine = "C is fun";
-const secondLine = "Python is cool";
-const thirdLine = "JavaScript is amazing";
+// #!/usr/bin/node
 
-console.log(firstLine);
-console.log(secondLine);
-console.log(thirdLine);
+console.log('C is fun\nPython is cool\nJavaScript is amazing');
